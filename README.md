@@ -13,3 +13,10 @@ Download link: https://downgit.github.io/#/home?url=https://github.com/InnoTechD
    # Project One-page-website-template
    **Status**: Ready to use! 🚧
    
+     ## Technology
+
+     - WordPress
+     - Elementor
+     - HTML
+     - CSS
+     
