@@ -8,9 +8,7 @@ After downloading the template, you will receive a zip archive that must be unpa
  
 
 Download link: https://downgit.github.io/#/home?url=https://github.com/InnoTechDev365/One-page-website-template/blob/c63195d309368c0a427a30b0becef637d3d891e6/elementor-335-2024-08-21.json
-
-   # Project One-page-website-template
-   **Status**: Ready to use! 🚧
+ 
    
      ## Technology
 
